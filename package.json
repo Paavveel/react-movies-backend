@@ -1,0 +1,8 @@
+{
+  "name": "react-movies-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Paavveel/react-movies-backend.git",
+  "author": "Paavveel <pa.tomilin@gmail.com>",
+  "license": "MIT"
+}
